@@ -82,7 +82,7 @@ for index in range(file_range):
     final_frames[0].save(f'{final_dir}/{index}.gif', save_all=True, append_images=final_frames[1:], loop=0, duration=30)
 
     # print(index, animations_list_for_object)
-    print(f'Image of {index} successfully merged in {(time.time() - start_time, 2)} seconds')
+    print(f'Image of {index} successfully merged in {round((time.time() - start_time), 2)} miliseconds')
     json_file.close()
 
 

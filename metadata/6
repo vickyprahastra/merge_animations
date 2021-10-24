@@ -1,0 +1,36 @@
+{
+  "tokenId": 6,
+  "name": "My NFT #6",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/6.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chardonnay"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pajamas Red"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Leaf Crown_green"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sneakers Black"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

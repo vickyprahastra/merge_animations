@@ -1,0 +1,36 @@
+{
+  "tokenId": 19,
+  "name": "My NFT #19",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/19.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chardonnay"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Simple Cap_red"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Green"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

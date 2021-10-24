@@ -1,0 +1,36 @@
+{
+  "tokenId": 4,
+  "name": "My NFT #4",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/4.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pajamas Red"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Pilot Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tv Offline"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Loafers Black"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tokenId": 40,
+  "name": "My NFT #40",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/40.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Salmon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Simple Cap_orange"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Loafers Brown"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

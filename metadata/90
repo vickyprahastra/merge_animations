@@ -1,0 +1,36 @@
+{
+  "tokenId": 90,
+  "name": "My NFT #90",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/90.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Stripe Tshirt_ed"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Viking Helmet_gold"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blue Glasses"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Hercules Sandals"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

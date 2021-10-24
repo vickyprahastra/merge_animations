@@ -1,0 +1,36 @@
+{
+  "tokenId": 93,
+  "name": "My NFT #93",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/93.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bikini Yellow"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Graduation Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Rubber Flip_flops"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

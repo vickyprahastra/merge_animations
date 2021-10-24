@@ -1,0 +1,36 @@
+{
+  "tokenId": 7,
+  "name": "My NFT #7",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/7.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pajamas Blue"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Hard Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Green"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

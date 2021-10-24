@@ -1,0 +1,32 @@
+{
+  "tokenId": 78,
+  "name": "My NFT #78",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/78.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink Salmon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink Suits"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Army Headband"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Rubber Flip_flops"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

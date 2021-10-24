@@ -1,0 +1,36 @@
+{
+  "tokenId": 79,
+  "name": "My NFT #79",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/79.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pilot"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Santa Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tv Offline"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Rubber Flip_flops"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

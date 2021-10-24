@@ -1,0 +1,36 @@
+{
+  "tokenId": 5,
+  "name": "My NFT #5",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/5.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Japan Headband"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Yellow"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

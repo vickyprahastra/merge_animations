@@ -1,0 +1,36 @@
+{
+  "tokenId": 16,
+  "name": "My NFT #16",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/16.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "King Crown"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shutdown"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Hercules Sandals"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

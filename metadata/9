@@ -1,0 +1,36 @@
+{
+  "tokenId": 9,
+  "name": "My NFT #9",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/9.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Keppel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ballet"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Unicorn Horn"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shutdown"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Loafers Brown"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

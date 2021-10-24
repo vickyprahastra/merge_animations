@@ -1,0 +1,32 @@
+{
+  "tokenId": 21,
+  "name": "My NFT #21",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/21.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pajamas Red"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Angel Halo"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Yellow"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tokenId": 62,
+  "name": "My NFT #62",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/62.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Au Chico"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Graduation Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cateye Glasses"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Red"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

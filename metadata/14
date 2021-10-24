@@ -1,0 +1,32 @@
+{
+  "tokenId": 14,
+  "name": "My NFT #14",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/14.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pajamas Red"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Simple Cap_orange"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sneakers White"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

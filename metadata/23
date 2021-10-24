@@ -1,0 +1,36 @@
+{
+  "tokenId": 23,
+  "name": "My NFT #23",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/23.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Lavender"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bikini Blue"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Loafers Brown"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

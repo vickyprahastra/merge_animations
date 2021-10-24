@@ -1,0 +1,36 @@
+{
+  "tokenId": 55,
+  "name": "My NFT #55",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/55.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chardonnay"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Cuts"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Leaf Crown_gold"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Matrix"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Blue"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

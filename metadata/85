@@ -1,0 +1,36 @@
+{
+  "tokenId": 85,
+  "name": "My NFT #85",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/85.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Vista Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Army Helmet"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blink Screen"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sneakers Black"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "tokenId": 22,
+  "name": "My NFT #22",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/22.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ronchi"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Biker Cuts"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Magician Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blink Screen"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Loafers Black"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

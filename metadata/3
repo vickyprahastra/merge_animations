@@ -1,0 +1,36 @@
+{
+  "tokenId": 3,
+  "name": "My NFT #3",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Vista Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Ballet"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Viking Helmet_gold"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Radar"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sneakers White"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

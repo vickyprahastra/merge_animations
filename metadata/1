@@ -1,0 +1,36 @@
+{
+  "tokenId": 1,
+  "name": "My NFT #1",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/1.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Keppel"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top_black"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Punk Blue"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tv Offline"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Green"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

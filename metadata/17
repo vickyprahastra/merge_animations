@@ -1,0 +1,36 @@
+{
+  "tokenId": 17,
+  "name": "My NFT #17",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/17.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Japonica"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "White Underwear"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Bicycle Helmet"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tv Offline"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Black"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

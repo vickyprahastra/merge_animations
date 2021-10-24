@@ -1,0 +1,36 @@
+{
+  "tokenId": 68,
+  "name": "My NFT #68",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/68.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Caveman"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Hard Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tv Offline"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Yellow"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

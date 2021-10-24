@@ -1,0 +1,36 @@
+{
+  "tokenId": 2,
+  "name": "My NFT #2",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/2.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Japonica"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Hula"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Angel Halo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Jackpot"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Rubber Boots Red"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

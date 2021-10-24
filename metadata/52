@@ -1,0 +1,36 @@
+{
+  "tokenId": 52,
+  "name": "My NFT #52",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/52.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Vista Blue"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top_white"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "King Crown"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cry"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sneakers White"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

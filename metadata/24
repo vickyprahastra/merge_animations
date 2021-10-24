@@ -1,0 +1,36 @@
+{
+  "tokenId": 24,
+  "name": "My NFT #24",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/24.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Chardonnay"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Devil Horn"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Error Screen"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Sneakers White"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

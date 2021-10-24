@@ -1,0 +1,36 @@
+{
+  "tokenId": 64,
+  "name": "My NFT #64",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/64.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Devil Horn"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Black"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

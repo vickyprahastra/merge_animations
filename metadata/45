@@ -1,0 +1,36 @@
+{
+  "tokenId": 45,
+  "name": "My NFT #45",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/45.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mint Green"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Blue Suits"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Santa Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Love"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Chucks Yellow"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

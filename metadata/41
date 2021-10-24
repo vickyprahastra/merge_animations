@@ -1,0 +1,36 @@
+{
+  "tokenId": 41,
+  "name": "My NFT #41",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/41.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Aquamarine"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top_yellow"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Viking Helmet_black"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Shutter Shades_glasses"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Aladdin Shoes"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

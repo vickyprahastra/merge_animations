@@ -1,0 +1,32 @@
+{
+  "tokenId": 47,
+  "name": "My NFT #47",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/47.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Japonica"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Chef"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Pilot Hat"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Hercules Sandals"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Yellow Flash"
+    }
+  ]
+}

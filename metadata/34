@@ -1,0 +1,36 @@
+{
+  "tokenId": 34,
+  "name": "My NFT #34",
+  "description": "My NFT description.",
+  "image": "https://api.robocatsnft.com/34.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Asparagus"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Malibu Blue"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Bikini Yellow"
+    },
+    {
+      "trait_type": "Headgear",
+      "value": "Japan Headband"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Cateye Glasses"
+    },
+    {
+      "trait_type": "Footwear",
+      "value": "Rubber Flip_flops"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Circle Red Flash"
+    }
+  ]
+}

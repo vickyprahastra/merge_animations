@@ -2,14 +2,17 @@ from PIL import Image, ImageSequence
 from os import walk
 import os
 import json
+import time
 
+images_dir = 'images'
 metadata_dir = 'metadata'
 animations_dir = 'animations'
+final_dir = 'final'
 tmp_dir = 'tmp'
 animation_frames = 30
+start_time = time.time()
 
 file_range = len(os.listdir(metadata_dir)) # get files range
-
 
 animations_dir_list = []
 def split_all_animations():
@@ -22,6 +25,10 @@ split_all_animations()
 def check_or_create_directory(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
+
+check_or_create_directory(tmp_dir)
+check_or_create_directory(final_dir)
+
 
 for anim_dir in animations_dir_list:
     for (dirpath, dirnames, filenames) in walk(f'{animations_dir}/{anim_dir}'):
@@ -39,10 +46,15 @@ for anim_dir in animations_dir_list:
                 frame.save(f'{tmp_dir}/{anim_dir}/{filename_noextension}/{len(frames)}.png')
                 frames.append(frame)
 
+def image_open(frame):
+    return Image.open(frame).convert('RGBA')
+
+
 for index in range(file_range):
     json_file = open(f'{metadata_dir}/{index}')
     data = json.load(json_file)
     animations_list_for_object = []
+    final_frames = []
 
     for i in data['attributes']:
         if i['trait_type'].lower() in os.listdir(f'{tmp_dir}'):
@@ -50,7 +62,27 @@ for index in range(file_range):
             if i['value'].lower().replace(" ", "_") in os.listdir(f'{tmp_dir}/{i["trait_type"].lower()}'):
                 # print(f'{tmp_dir}/{i['trait_type'].lower()}/{i['value'].lower()}')
                 animations_list_for_object.append(f'{tmp_dir}/{i["trait_type"].lower()}/{i["value"].lower().replace(" ", "_")}')
-    print(animations_list_for_object)
+
+
+    for x in range(animation_frames):
+        body = image_open(f'{images_dir}/{index}.png')
+        for animation_list in animations_list_for_object:
+            # print(f'{animation_list}/{x}.png')
+
+            # mata = Image.open(f'images/mata/{x}.png').convert('RGBA')
+            # tail = Image.open(f'images/tail/{x}.png').convert('RGBA')
+
+            animation_frame = image_open(f'{animation_list}/{x}.png')
+            body.paste(animation_frame, mask=animation_frame)
+
+            # body.paste(tail, mask=tail)
+
+            final_frames.append(body)
+
+    final_frames[0].save(f'{final_dir}/{index}.gif', save_all=True, append_images=final_frames[1:], loop=0, duration=30)
+
+    # print(index, animations_list_for_object)
+    print(f'Image of {index} successfully merged in {(time.time() - start_time, 2)} seconds')
     json_file.close()
 
 

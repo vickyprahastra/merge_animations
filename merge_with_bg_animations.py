@@ -9,7 +9,7 @@ metadata_dir = 'metadata'
 animations_dir = 'animations'
 final_dir = 'final'
 tmp_dir = 'tmp'
-animation_frames = 8
+animation_frames = 30
 start_time = time.time()
 
 file_range = len(os.listdir(metadata_dir)) # get files range
@@ -67,11 +67,12 @@ for index in range(file_range):
         for animation_list in animations_list_for_object:
 
             animation_frame = image_open(f'{animation_list}/{x}.png')
-            body.paste(animation_frame, mask=animation_frame)
+            # body.paste(animation_frame, mask=animation_frame)
+            animation_frame.paste(body, mask=body)
 
-            final_frames.append(body)
+            final_frames.append(animation_frame)
 
-    final_frames[0].save(f'{final_dir}/{index}.gif', save_all=True, append_images=final_frames[1:], loop=0, duration=60)
+    final_frames[0].save(f'{final_dir}/{index}.gif', save_all=True, append_images=final_frames[1:], loop=0, duration=30)
 
     print(f'Image of {index} successfully merged in {round((time.time() - start_time), 2)} seconds')
     json_file.close()

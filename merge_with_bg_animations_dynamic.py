@@ -9,7 +9,7 @@ metadata_dir = 'metadata'
 animations_dir = 'animations'
 final_dir = 'final'
 tmp_dir = 'tmp'
-animation_frames = 8
+# animation_frames = 30
 start_time = time.time()
 
 file_range = len(os.listdir(metadata_dir)) # get files range
@@ -61,15 +61,14 @@ for index in range(file_range):
             if i['value'].lower().replace(" ", "_") in os.listdir(f'{tmp_dir}/{i["trait_type"].lower()}'):
                 animations_list_for_object.append(f'{tmp_dir}/{i["trait_type"].lower()}/{i["value"].lower().replace(" ", "_")}')
 
-
-    for x in range(animation_frames):
-        body = image_open(f'{images_dir}/{index}.png')
-        for animation_list in animations_list_for_object:
+    body = image_open(f'{images_dir}/{index}.png')
+    for animation_list in animations_list_for_object:
+        for x in range( len(os.listdir(animation_list)) ):
 
             animation_frame = image_open(f'{animation_list}/{x}.png')
-            body.paste(animation_frame, mask=animation_frame)
-
-            final_frames.append(body)
+            # body.paste(animation_frame, mask=animation_frame)
+            animation_frame.paste(body, mask=body)
+            final_frames.append(animation_frame)
 
     final_frames[0].save(f'{final_dir}/{index}.gif', save_all=True, append_images=final_frames[1:], loop=0, duration=60)
 

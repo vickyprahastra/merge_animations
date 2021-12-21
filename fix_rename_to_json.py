@@ -16,9 +16,6 @@ def check_or_create_directory(directory):
 
 # check_or_create_directory(rename_metadata_dir)
 
-def image_open(frame):
-    return Image.open(frame).convert('RGBA')
-
 for index in range(file_range):
     json_file = open(f'{metadata_dir}/{index}')
     data = json.load(json_file)

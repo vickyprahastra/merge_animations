@@ -55,7 +55,6 @@ class ItemData():
         self.tmp_directory = tmp_directory
 
 for index in range(file_range):
-    print(index)
     json_file = open(f'{metadata_dir}/{index}')
     data = json.load(json_file)
     animations_list_for_object = []
@@ -78,7 +77,6 @@ for index in range(file_range):
 
 
     first_animation_frame_range = len(os.listdir(animations_list_for_object[0].tmp_directory))
-    print(first_animation_frame_range)
 
 
     for x in range(first_animation_frame_range):
@@ -88,7 +86,6 @@ for index in range(file_range):
         if ((x+1) % 3) == 0:
             not_main_frame_index = 0
 
-        print(not_main_frame_index)
         for i, trait in enumerate(animations_list_for_object, start=0):
 
 

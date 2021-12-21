@@ -1,0 +1,214 @@
+[
+    {
+        "tokenId": 0,
+        "name": "Crypto Shiba Go #0",
+        "description": "Woof woof...!",
+        "image": "https://base-uri-to-my-nft-images.com/0.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange Red"
+            },
+            {
+                "trait_type": "Shiba",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Clown"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Halo"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Red"
+            }
+        ]
+    },
+    {
+        "tokenId": 1,
+        "name": "Crypto Shiba Go #1",
+        "description": "Woof woof...!",
+        "image": "https://base-uri-to-my-nft-images.com/1.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Green Blue"
+            },
+            {
+                "trait_type": "Shiba",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Clown"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Witch"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Red"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "Red Dot Bow Tie"
+            }
+        ]
+    },
+    {
+        "tokenId": 2,
+        "name": "Crypto Shiba Go #2",
+        "description": "Woof woof...!",
+        "image": "https://base-uri-to-my-nft-images.com/2.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange Red"
+            },
+            {
+                "trait_type": "Shiba",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Dizzy"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Leaf"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "Green Bow Tie"
+            }
+        ]
+    },
+    {
+        "tokenId": 3,
+        "name": "Crypto Shiba Go #3",
+        "description": "Woof woof...!",
+        "image": "https://base-uri-to-my-nft-images.com/3.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Blue Red"
+            },
+            {
+                "trait_type": "Shiba",
+                "value": "Brownie"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Coins"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Halo"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Red"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "England Bow Tie"
+            }
+        ]
+    },
+    {
+        "tokenId": 4,
+        "name": "Crypto Shiba Go #4",
+        "description": "Woof woof...!",
+        "image": "https://base-uri-to-my-nft-images.com/4.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Dark Turquoise"
+            },
+            {
+                "trait_type": "Shiba",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Happy"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Halo"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Tongue Out"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Red"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "England Bow Tie"
+            }
+        ]
+    },
+    {
+        "tokenId": 5,
+        "name": "Crypto Shiba Go #5",
+        "description": "Woof woof...!",
+        "image": "https://base-uri-to-my-nft-images.com/5.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Aquamarine"
+            },
+            {
+                "trait_type": "Shiba",
+                "value": "Normal"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Cool"
+            },
+            {
+                "trait_type": "Hats",
+                "value": "Crab"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Mouth Open"
+            },
+            {
+                "trait_type": "Nose",
+                "value": "Clown"
+            },
+            {
+                "trait_type": "Accessories",
+                "value": "French Bow Tie"
+            }
+        ]
+    }
+]

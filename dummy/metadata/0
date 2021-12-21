@@ -1,0 +1,36 @@
+{
+  "tokenId": 0,
+  "name": "Crypto Shiba Go #0",
+  "description": "Woof woof...!",
+  "image": "https://base-uri-to-my-nft-images.com/0.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Shiba",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Clown"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Diamond"
+    }
+  ]
+}

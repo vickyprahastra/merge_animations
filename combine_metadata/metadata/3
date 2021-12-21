@@ -1,0 +1,36 @@
+{
+  "tokenId": 3,
+  "name": "Crypto Shiba Go #3",
+  "description": "Woof woof...!",
+  "image": "https://base-uri-to-my-nft-images.com/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue Red"
+    },
+    {
+      "trait_type": "Shiba",
+      "value": "Brownie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Coins"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Halo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue Out"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "England Bow Tie"
+    }
+  ]
+}

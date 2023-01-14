@@ -6,3 +6,5 @@ metadata (copy)/*
 rename_metadata/*
 images/*
 animations/*
+backup/*
+metadata (backup)/*
